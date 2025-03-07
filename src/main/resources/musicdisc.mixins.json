@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.piox.main.mixin",
+	"package": "net.piox.Main.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

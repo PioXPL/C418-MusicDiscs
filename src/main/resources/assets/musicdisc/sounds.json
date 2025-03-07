@@ -1,0 +1,10 @@
+{
+  "music_disc.aria_math": {
+    "sounds": [
+      {
+        "name": "musicdisc:music_disc/aria_math",
+        "stream": true
+      }
+    ]
+  }
+}

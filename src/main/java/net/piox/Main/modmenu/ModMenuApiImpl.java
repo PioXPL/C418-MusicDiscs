@@ -1,4 +1,4 @@
-package net.piox.Main.ModMenu;
+package net.piox.Main.modmenu;
 
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;

@@ -22,10 +22,10 @@
 			"net.piox.Main.musicdiscClient"
 		],
 		"fabric-datagen": [
-			"net.piox.main.musicdiscDataGenerator"
+			"net.piox.Main.musicdiscDataGenerator"
 		],
 		"modmenu": [
-			"net.piox.Main.ModMenu.ModMenuApiImpl"
+			"net.piox.Main.modmenu.ModMenuApiImpl"
 		]
 	},
 	"mixins": [
